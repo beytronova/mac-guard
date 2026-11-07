@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r\r
+
+# Build outputs & binaries
+build/
+scratch/
+*.app
+*.dSYM
+*.o
+*.swiftdoc
+*.swiftmodule
+
+# Logs, webcam captures & personal intruder photos
+logs/
+logs/intruders/
+*.jpg
+*.jpeg
+
+# Local sensitive configuration (tokens & personal chat IDs)
+config.json
+

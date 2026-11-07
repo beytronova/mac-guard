@@ -1,0 +1,24 @@
+{
+  "telegram_bot_token": "",
+  "telegram_enabled": false,
+  "target_apps": [
+    {
+      "process_name": "WhatsApp",
+      "bundle_id": "net.whatsapp.WhatsApp",
+      "display_name": "WhatsApp"
+    },
+    {
+      "bundle_id": "com.apple.Photos",
+      "display_name": "Fotoğraflar",
+      "process_name": "Photos"
+    },
+    {
+      "process_name": "Safari",
+      "bundle_id": "com.apple.Safari",
+      "display_name": "Safari"
+    }
+  ],
+  "current_mode": "Yonetici",
+  "telegram_chat_id": ""
+}
+
